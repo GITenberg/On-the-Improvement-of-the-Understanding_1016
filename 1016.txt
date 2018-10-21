@@ -1,4 +1,4 @@
-The Project Gutenberg EBook of On the Improvement of the Understanding, by 
+The Project Gutenberg EBook of On the Improvement of the Understanding, by
 Baruch Spinoza  [Benedict de Spinoza]
 
 This eBook is for the use of anyone anywhere at no cost and with
@@ -199,12 +199,12 @@ are innumerable cases of men, who have hastened their death through
 over-indulgence in sensual pleasure.
 
 [9]  (1) All these evils seem to have arisen from the fact, that
-happiness or unhappiness is made wholly dependent on the quality
-of the object which we love.  (2) When a thing is not loved, no
-quarrels will arise concerning it--no sadness be felt if it
-hatred, in short no disturbances of the mind.  (3) All these
-arise from the love of what is perishable, such as the objects
-already mentioned.
+happiness or unhappiness is made wholly dependent on the quality of the
+object which we love.  (2) When a thing is not loved, no quarrels will
+arise concerning it--no sadness will be felt if it perishes--no envy if
+it is possessed by another--no fear, no hatred, in short no disturbances
+of the mind. (3) All these arise from the love of what is perishable,
+such as the objects already mentioned.
 
 [10]  (1) But love towards a thing eternal and infinite feeds the
 mind wholly with joy, and is itself unmingled with any sadness,
@@ -1807,7 +1807,7 @@ Notes by Volunteer.
 
 
 
-End of the Project Gutenberg EBook of On the Improvement of the Understanding, by 
+End of the Project Gutenberg EBook of On the Improvement of the Understanding, by
 Baruch Spinoza  [Benedict de Spinoza]
 
 *** END OF THIS PROJECT GUTENBERG EBOOK ON IMPROVEMENT OF UNDERSTANDING ***
